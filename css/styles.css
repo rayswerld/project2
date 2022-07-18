@@ -1,0 +1,99 @@
+.top_container {
+  background-color: #1A4D2E;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #006E7F;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #EE5007;
+  padding-top: 15px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 57%;
+}
+
+h1 {
+  font-size: 220%;
+  color: #FF9F29;
+  margin: 20px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  color: #92BA92;
+  font-size: 1.25em;
+  font-weight: normal;
+}
+
+p {
+  color: #EEB0B0;
+  margin-top: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.adv {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.kitty {
+  width: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.walking-hobbit {
+  width: 25%;
+  height: 45%;
+}
+
+.btn {
+  background: #11cdd4;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  text-decoration: none;
+}
